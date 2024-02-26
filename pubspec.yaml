@@ -34,9 +34,12 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  google_fonts: ^6.1.0
-  syncfusion_flutter_charts: ^24.1.46+1
+  google_fonts: ^4.0.4
+  syncfusion_flutter_charts: ^24.2.6
   provider: ^6.1.1
+  geocoder_buddy: ^1.0.1
+  scrollable_positioned_list: ^0.3.8
+  json_tree_viewer: ^0.0.2
 
 dev_dependencies:
   flutter_test:
